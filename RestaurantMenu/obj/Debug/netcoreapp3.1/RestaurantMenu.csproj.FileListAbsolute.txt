@@ -1,0 +1,12 @@
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.deps.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.runtimeconfig.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.runtimeconfig.dev.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.dll
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/bin/Debug/netcoreapp3.1/RestaurantMenu.pdb
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.csprojAssemblyReference.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.AssemblyInfoInputs.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.AssemblyInfo.cs
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.csproj.CoreCompileInputs.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.dll
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.pdb
+/Users/armandtsafack/Desktop/WEBDEV/csharp/RestaurantMenu/RestaurantMenu/obj/Debug/netcoreapp3.1/RestaurantMenu.genruntimeconfig.cache
